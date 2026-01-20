@@ -18,5 +18,9 @@
 
 ---
 
+[![YoussefRouatbi's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=YoussefRouatbi&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)
+
+---
+
 ## 📫 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:youssef.rouatbi17@gmail.com)
