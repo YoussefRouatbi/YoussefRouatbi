@@ -4,7 +4,7 @@
 🚀 Passionate about building real-world solutions  
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YoussefRoutbi&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefRoutbi&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=YoussefRoutbi&show_icons=true&theme=radical)        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefRoutbi&layout=compact&theme=radical)
 
 
 ## ⚙ Tech Stack
