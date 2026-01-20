@@ -14,11 +14,11 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+[![YoussefRouatbi's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=YoussefRouatbi&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)
 
 ---
 
-[![YoussefRouatbi's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=YoussefRouatbi&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
