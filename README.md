@@ -20,5 +20,9 @@
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📫 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:youssef.rouatbi17@gmail.com)
