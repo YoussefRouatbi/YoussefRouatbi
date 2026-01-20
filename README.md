@@ -3,15 +3,9 @@
 🎓 Computer Science student  
 🚀 Passionate about building real-world solutions  
 
----
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YoussefRoutbi&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=YoussefRoutbi&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefRoutbi&layout=compact&theme=radical)
 
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefRoutbi&layout=compact&theme=radical)
-
----
 
 ## ⚙ Tech Stack
 <p>
