@@ -9,7 +9,7 @@
 
 ## ⚙ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,svelte,tailwind,php,mysql,python,qt,npm" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,svelte,react,tailwind,php,mysql,python,qt,npm" />
 </p>
 
 ---
